@@ -1,0 +1,59 @@
+# LangChain Core
+langchain
+langchain-core
+
+# LangChain Comunity
+langchain-community
+
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+
+# Mistral AI integration
+langchain_mistralai
+
+# Environment Variable Management
+python-dotenv
+
+
+# langchain experiment spilitter for simantic spilitting
+langchain_experimental
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+
+
+# Chroma DB
+chromadb
+
+
+# Vector Stores
+faiss-cpu  
+
+# Retrieval
+wikipedia
+
+
+#Other
+tiktoken
+youtube_transcript_api
+streamlit
+pydantic[email]
+grandalf
+duckduckgo-search
