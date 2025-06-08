@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import os
-os.environ["OPENAI_API_KEY"] = "REMOVED_SECRETproj-o9scy9gT3BlbkFJHkRNgKTH-i2KzFqlvsRWFPlrrwzQHl9wsJTpVuhR-qM6NLOYVRleM698IARLTAt8TuLsgjKV8A"
 
 # !pip install -q langchain-openai langchain-community langchain-core requests duckduckgo-search
 
