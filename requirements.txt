@@ -57,3 +57,6 @@ streamlit
 pydantic[email]
 grandalf
 duckduckgo-search
+unstructured
+langchain_chroma
+pymupdf
